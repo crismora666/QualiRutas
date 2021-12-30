@@ -1,0 +1,12 @@
+{"ruta_id":1,"drives":{}}
+{"ruta_id":2,"drives":{}}
+{"ruta_id":3,"drives":{}}
+{"ruta_id":4,"drives":{}}
+{"ruta_id":5,"drives":{}}
+{"ruta_id":6,"drives":{}}
+{"ruta_id":7,"drives":{}}
+{"ruta_id":8,"drives":{"0114":["0114072117.trp"],"0115":["0115072130.trp"],"0116":["0116070551.trp"]}}
+{"ruta_id":9,"drives":{}}
+{"ruta_id":10,"drives":{}}
+{"ruta_id":11,"drives":{}}
+{"ruta_id":12,"drives":{}}
