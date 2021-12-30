@@ -112,7 +112,7 @@
 				initQrutas();
 				var map_script = document.createElement("script");
 				map_script.type = "text/javascript";
-				//map_script.src = "https://maps.googleapis.com/maps/api/js?key=AIzaSyAIh586MQfcWDmENMVyEpahuQaimO-qcEE&callback=initialize";
+				//map_script.src = "https://maps.googleapis.com/maps/api/js?key=&callback=initialize";
 				map_script.src = "https://maps.googleapis.com/maps/api/js?key=&callback=initialize";
 				document.body.appendChild(map_script);  
 			}
